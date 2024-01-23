@@ -1,0 +1,11 @@
+.projects{
+    text-align: justify;
+    margin-left: 75px;
+    flex-direction: column;
+
+}
+
+.projects h1{
+    font-size: 45px;
+}
+
