@@ -11,7 +11,7 @@ function Projects (){
        img={lpdnc} 
        title='LP - DNC'
         tech='HTML, CSS E JS' description='Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia' repo='https://github.com/veronicasantana1/projeto-landing-page.git' site='https://desafiolandingpage1.netlify.app/'></Card>
-       <Card img={portifolio} 
+       <Card 
        title='LP - DNC'
         tech='HTML, CSS E JS' description='Desenvolvimento de uma Landing Page para o lançamento da formação em tecnologia' repo='https://github.com/veronicasantana1/projeto-landing-page.git' site='https://desafiolandingpage1.netlify.app/'></Card>
        <Card></Card>
