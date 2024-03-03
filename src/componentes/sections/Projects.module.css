@@ -9,3 +9,54 @@
     font-size: 45px;
 }
 
+.cards{
+    display: grid;
+    margin-left: 200px;
+    grid-template-columns: 550px 550px;
+    grid-template-rows: 700px 700px;
+    gap: 80px 200px;
+}
+
+/* .cards border{
+    border-color: #FFFFFF ;
+    border-radius: 50px, 0px, 50px, 0px;
+} */
+
+.border{
+    border: 2px solid #FFFFFF;
+    border-radius: 50px 0 50px 0;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.border h4{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 31.86px;
+    margin-top: 20px;
+}
+
+.border p{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    margin-top: 20px;
+}
+
+.border button{
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    margin-right: 370px;
+    border-radius: 83px;
+    margin-top: -20px;
+}
+
+.border img{
+    padding-top: 30px;
+    cursor: pointer;
+}

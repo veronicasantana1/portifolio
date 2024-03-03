@@ -5,9 +5,23 @@
 }
 
 .presentation h1{
-    font-size: 45px;
+    font-size: 63px;
 }
 
 .presentation h4{
     font-size: 25px;
+}
+
+.presentation p{
+    color: #BCBCBC;
+    margin-left: 40px;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.presentation button{
+    width: 280px;
+    height: 80px;
+    border-radius: 83px;
+    font-size: 28px;
 }

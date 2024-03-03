@@ -1,7 +1,6 @@
 .navbar{
     display: flex;
     justify-content: space-between;
-    padding: 1em;
 }
 
 .navbar ul{
@@ -16,4 +15,10 @@ margin: 10px;
 
 .navbar a{
     color: aliceblue !important;
+    text-decoration: none; 
+}
+
+.center{
+    margin-left: 30rem;
+    gap: 30px;
 }

@@ -38,10 +38,10 @@ const toType = () =>{
 }
     return(
        <div className={styles.presentation} id="Presentation">
-       <h4><strong>Bem-vindo ao meu Portifólio</strong></h4>
+       <h4><strong>Bem-vindo ao meu Portifólio!</strong></h4>
        <h1>Olá, Eu sou {text}</h1>
-       <p>Sblablablalblalbla  <br/> blablblalblalbllas <br/> blablalblalbalb</p>
-       <ButtonA text='Conecte-se comigo!' link='https://github.com/veronicasantana1'></ButtonA>
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing<br></br> elit, sed do eiusmod tempor incididunt ut labore et <br></br>dolore magna aliqua. </p>
+       <ButtonA text='Saber mais' link='https://github.com/veronicasantana1'></ButtonA>
        </div>
     )
 }

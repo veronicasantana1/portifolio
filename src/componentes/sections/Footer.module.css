@@ -1,13 +1,18 @@
 .footer{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+    font-size: 42px;
+}
+
+.contato{
+    display: flex;
+    flex-direction: row;
 }
 
 .footer ul{
     list-style: none;
     display: flex;
-    justify-content: center;
-    margin: 25px;
+    justify-content: flex-end;
 }
 
 .footer a{
